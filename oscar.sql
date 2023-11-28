@@ -324,7 +324,11 @@ SELECT * FROM melhorAtorCoadjuvante;
 
 INSERT INTO
     melhorAtorCoadjuvante (
+<<<<<<< Updated upstream
         AtorCoadjuvante,
+=======
+        Ator,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -334,7 +338,11 @@ VALUES (
 
 INSERT INTO
     melhorAtorCoadjuvante (
+<<<<<<< Updated upstream
         AtorCoadjuvante,
+=======
+        Ator,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -344,7 +352,11 @@ VALUES (
 
 INSERT INTO
     melhorAtorCoadjuvante (
+<<<<<<< Updated upstream
         AtorCoadjuvante,
+=======
+        Ator,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -354,7 +366,11 @@ VALUES (
 
 INSERT INTO
     melhorAtorCoadjuvante (
+<<<<<<< Updated upstream
         AtorCoadjuvante,
+=======
+        Ator,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -364,7 +380,11 @@ VALUES (
 
 INSERT INTO
     melhorAtorCoadjuvante (
+<<<<<<< Updated upstream
         AtorCoadjuvante,
+=======
+        Ator,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -384,7 +404,11 @@ SELECT * FROM melhorAtrizCoadjuvante;
 
 INSERT INTO
     melhorAtrizCoadjuvante (
+<<<<<<< Updated upstream
         AtrizCoadjuvante,
+=======
+        Atriz,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -394,7 +418,11 @@ VALUES (
 
 INSERT INTO
     melhorAtrizCoadjuvante (
+<<<<<<< Updated upstream
         AtrizCoadjuvante,
+=======
+        Atriz,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -404,7 +432,11 @@ VALUES (
 
 INSERT INTO
     melhorAtrizCoadjuvante (
+<<<<<<< Updated upstream
         AtrizCoadjuvante,
+=======
+        Atriz,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -414,7 +446,11 @@ VALUES (
 
 INSERT INTO
     melhorAtrizCoadjuvante (
+<<<<<<< Updated upstream
         AtrizCoadjuvante,
+=======
+        Atriz,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -424,7 +460,11 @@ VALUES (
 
 INSERT INTO
     melhorAtrizCoadjuvante (
+<<<<<<< Updated upstream
         AtrizCoadjuvante,
+=======
+        Atriz,
+>>>>>>> Stashed changes
         Filme
     )
 VALUES (
@@ -1231,4 +1271,8 @@ INSERT INTO
 VALUES (
         'The Red Suitcase',
         'Drama'
+<<<<<<< Updated upstream
     );
+=======
+    );
+>>>>>>> Stashed changes
